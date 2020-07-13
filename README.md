@@ -39,5 +39,5 @@
 - [ORACLE 설치 및 설정](/ORACLE/02.ORACLE.md)
 - [SQL (Structured Query Language)](/ORACLE/03.SQL.md)
 
-- [DML (Data Manipulation Language)](/ORACLE/04.DML(Data Manipulation Language).md)
-- [DDL(Data Definition Language)](/ORACLE/05.DDL(Data Definition Language).md)
+- [DML (Data Manipulation Language)](/ORACLE/04.DML.md)
+- [DDL(Data Definition Language)](/ORACLE/05.DDL.md)
