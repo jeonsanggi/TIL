@@ -1,9 +1,12 @@
 ## TIL (Today I Learned)
+
+"배운 것과 공부한 것을 정리하는 습관을 갖자!"
+
 ### Categories
 
 - [JAVA](#JAVA)
 - [PYTHON](#PYTHON)
-- ORACLE
+- [ORACLE](#ORACLE)
 
 -------------------
 
@@ -30,5 +33,11 @@
 - [가변 위치 인자(*args), 가변 키워드 인자(**kwargs), Packing & Unpacking](/PYTHON/04.가변_위치_인자_가변_키워드_인자_Unpacking.md)
 - [파이썬에서 제공하는 자료구조 (Collections)](/PYTHON/05.파이썬에서_제공하는_자료구조.md)
 
+### ORACLE
 
+- [데이터베이스(Database)](/ORACLE/01.데이터베이스.md)
+- [ORACLE 설치 및 설정](/ORACLE/02.ORACLE.md)
+- [SQL (Structured Query Language)](/ORACLE/03.SQL.md)
 
+- [DML (Data Manipulation Language)](/ORACLE/04.DML(Data Manipulation Language).md)
+- [DDL(Data Definition Language)](/ORACLE/05.DDL(Data Definition Language).md)
