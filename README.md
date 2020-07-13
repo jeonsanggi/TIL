@@ -25,10 +25,10 @@
 
 ### PYTHON
 
-- [for in, range, enumberate, zip](/PYTHON/02.for in_range_enumerate_zip.md)
+- [for in range enumberate zip](/PYTHON/02.for in_range_enumerate_zip.md)
 
 - [람다식 (Lambda)](/PYTHON/03.Lambda.md)
-- [가변 위치 인자(*args), 가변 키워드 인자(**kwargs), Packing & Unpacking](/PYTHON/04.가변 위치 인자_가변 키워드 인자_Unpacking .md)
+- [가변 위치 인자(*args) 가변 키워드 인자(**kwargs) Packing & Unpacking](/PYTHON/04.가변 위치 인자_가변 키워드 인자_Unpacking .md)
 - [파이썬에서 제공하는 자료구조 (Collections)](/PYTHON/05.파이썬에서_제공하는_자료구조.md)
 
 
