@@ -34,7 +34,7 @@
 - [가변 위치 인자(*args), 가변 키워드 인자(**kwargs), Packing & Unpacking](/PYTHON/04.parameter.md)
 - [파이썬에서 제공하는 자료구조 (Collections)](/PYTHON/05.파이썬에서_제공하는_자료구조.md)
 - [리스트(List)](/PYTHON/06.List.md)
-- [클래스(Class)](/PYTHON/07.Class.md)
+- [클래스(Class)](/PYTHON/07.클래스.md)
 - [모듈(Module)](/PYTHON/08.Module.md)
 
 ### ORACLE
