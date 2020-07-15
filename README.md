@@ -43,6 +43,7 @@
 - [예외처리(Exception)](/PYTHON/13.Exception.md)
 - [Typing](/PYTHON/14.Typing.md)
 - [print 출력 방법](/PYTHON/15.print-출력-방법.md)
+- [Sort&Sorted&Operator Module](/PYTHON/16.Sort&Sorted&Operator-Module.md)
 
 #### ORACLE
 
