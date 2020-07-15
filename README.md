@@ -36,6 +36,12 @@
 - [리스트(List)](/PYTHON/06.List.md)
 - [클래스(Class)](/PYTHON/07.클래스.md)
 - [모듈(Module)](/PYTHON/08.Module.md)
+- [제너레이터(Generator)](/PYTHON/09.Generator.md)
+- [일급함수(First Class Function)](/PYTHON/10.First-Class-Function.md)
+- [클로저(Closure)](/PYTHON/11.Closure.md)
+- [데코레이터(Decorator)](/PYTHON/12.Decorator.md)
+- [예외처리(Exception)](/PYTHON/13.Exception.md)
+- [Typing](/PYTHON/14.Typing.md)
 
 ### ORACLE
 
