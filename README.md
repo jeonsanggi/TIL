@@ -23,8 +23,8 @@
 - [람다식 (Lambda)](/JAVA/09.Lambda.md)
 - [표준 API 함수적 인터페이스 (Standard-API-Functional-Interface)](/JAVA/10.Standard-API-Functional-Interface.md)
 - [함수적 인터페이스 (Functional-Interface)](/JAVA/11.Functional-Interface.md)
-
 - [Java Collectons Framework](/JAVA/12.Collections.md)
+- [Compartor&Comparable](/JAVA/13.Compartor&Comparable.md)
 
 #### PYTHON
 
@@ -44,7 +44,6 @@
 - [Typing](/PYTHON/14.Typing.md)
 - [print 출력 방법](/PYTHON/15.print-출력-방법.md)
 - [Sort&Sorted&Operator Module](/PYTHON/16.Sort&Sorted&Operator-Module.md)
-- [Compartor&Comparable](/JAVA/13.Compartor&Comparable.md)
 
 #### ORACLE
 
