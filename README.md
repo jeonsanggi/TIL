@@ -26,6 +26,7 @@
 - [Java Collectons Framework](/JAVA/12.Collections.md)
 - [Compartor&Comparable](/JAVA/13.Compartor&Comparable.md)
 - [Stream](/JAVA/13.Stream.md)
+- [인사 정보 검색 미니 프로젝트](/JAVA/HrSearch)
 
 #### PYTHON
 
