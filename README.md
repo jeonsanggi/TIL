@@ -7,6 +7,7 @@
 - [JAVA](#JAVA)
 - [PYTHON](#PYTHON)
 - [ORACLE](#ORACLE)
+- [DESIGN PATTERNS](#DESIGN-PATTERNS)
 
 -------------------
 
@@ -68,3 +69,7 @@
 - [PL/SQL](/ORACLE/16.PLSQL.md)
 - [JDBC(Java DataBase Connectivity)](/ORACLE/17.JDBC.md)
 - [SQL 연습](/ORACLE/SQL-연습.md)
+
+#### DESIGN PATTERNS
+
+- [GoF 디자인 패턴](/DESIGN-PATTERNS/01.디자인 패턴.md)
