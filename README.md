@@ -72,4 +72,4 @@
 
 #### DESIGN PATTERNS
 
-- [GoF 디자인 패턴](/DesignPatterns/01.디자인-패턴.md)
+- [GoF 디자인 패턴](/DesignPatterns/01.디자인패턴.md)
