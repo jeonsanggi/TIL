@@ -74,3 +74,4 @@
 #### DESIGN PATTERNS
 
 - [GoF 디자인 패턴](/DesignPatterns/01.디자인패턴.md)
+- [전략 패턴(Strategy Pattern)](/DesignPatterns/02.Strategy-Pattern.md)
