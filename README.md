@@ -78,8 +78,8 @@
 - [MongoDB 설치 및 설정](/MongoDB/02.MongoDB-설치-및-설정.md)
 - [CRUD](/MongoDB/03.CRUD.md)
 - [Operator](/MongoDB/04.Operator.md)
-- [Aggreation](/MongoDB/04.Aggreation.md)
-- [mongoImport](/MongoDB/06.Import.md)
+- [Aggreation](/MongoDB/05.Aggreation.md)
+- [Mongo Import](/MongoDB/06.Import.md)
 - [Array Operator](/MongoDB/07.Array-Operator.md)
 - [Where Query](/MongoDB/08.where-Query.md)
 
@@ -90,6 +90,6 @@
 
 #### Spring
 
-[스프링 설정](/SPRING/01.스프링-설정.md)
+- [스프링 설정](/SPRING/01.스프링-설정.md)
 
-[MariaDB와 Mybatis 연동](/SRPING/02.MariaDB-Mybatis.md)
+- [MariaDB와 Mybatis 연동](/SPRING/02.MariaDB-Mybatis.md)
