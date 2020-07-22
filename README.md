@@ -28,7 +28,8 @@
 - [함수적 인터페이스 (Functional-Interface)](/JAVA/11.Functional-Interface.md)
 - [Java Collectons Framework](/JAVA/12.Collections.md)
 - [Compartor&Comparable](/JAVA/13.Compartor&Comparable.md)
-- [Stream](/JAVA/13.Stream.md)
+- [Stream](/JAVA/14.Stream.md)
+- [Thread](/JAVA/15.Thread.md)
 - [인사 정보 검색 미니 프로젝트](/JAVA/HrSearch)
 
 #### PYTHON
