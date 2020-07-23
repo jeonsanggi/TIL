@@ -30,6 +30,8 @@
 - [Compartor&Comparable](/JAVA/13.Compartor&Comparable.md)
 - [Stream](/JAVA/14.Stream.md)
 - [Thread](/JAVA/15.Thread.md)
+- [Thread 임계영역(Critical Section)](/JAVA/16.Thread-Critical-Section.md)
+- [Thread Intterupt](/JAVA/17.Thread-Interrupt.md)
 - [인사 정보 검색 미니 프로젝트](/JAVA/HrSearch)
 
 #### PYTHON
