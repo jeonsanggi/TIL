@@ -54,6 +54,7 @@
 - [Sort&Sorted&Operator Module](/PYTHON/16.Sort&Sorted&Operator-Module.md)
 - [Static Method & Class Method](/PYTHON/17.Method.md)
 - [Matplotlib](/PYTHON/18.Matplotlib.ipynb)
+- [Random](/PYTHON/19.Random.md)
 
 #### ORACLE
 
