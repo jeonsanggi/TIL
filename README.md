@@ -54,8 +54,7 @@
 - [print 출력 방법](/PYTHON/15.print-출력-방법.md)
 - [Sort&Sorted&Operator Module](/PYTHON/16.Sort&Sorted&Operator-Module.md)
 - [Static Method & Class Method](/PYTHON/17.Method.md)
-- [Matplotlib](/PYTHON/18.Matplotlib.ipynb)
-- [Random](/PYTHON/19.Random.md)
+- [Random](/PYTHON/18.Random.md)
 
 #### ORACLE
 
@@ -104,3 +103,4 @@
 
 - [NumPy](/BigData/01.Numpy.md)
 - [Pandas](/BigData/02.Pandas.md)
+- [Matplotlib](/BigData/03.Matplotlib.ipynb)
