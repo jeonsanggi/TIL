@@ -105,3 +105,4 @@
 - [Pandas](/BigData/02.Pandas.md)
 - [Matplotlib](/BigData/03.Matplotlib.ipynb)
 - [Pandas Graph](/BigData/04.Pandas-Graph.ipynb)
+- [Web Scraping](/BigData/05.Web-Scraping.ipynb)
