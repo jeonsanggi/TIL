@@ -106,3 +106,6 @@
 - [Matplotlib](/BigData/03.Matplotlib.ipynb)
 - [Pandas Graph](/BigData/04.Pandas-Graph.ipynb)
 - [Web Scraping](/BigData/05.Web-Scraping.ipynb)
+- [데이터 분석 예제1(Bit.ly의 USA.gov)](/BigData/06.데이터분석예제-Bit_ly.ipynb)
+- [데이터 분석 예제2(MovieLens의 영화 평점 데이터)](/BigData/07.데이터분석예제-MovieLens.ipynb)
+
