@@ -7,6 +7,10 @@
 - [JAVA](#JAVA)
 - [PYTHON](#PYTHON)
 - [ORACLE](#ORACLE)
+- [MongoDB](#MongoDB)
+- [DESIGN PATTERNS](#DESIGN-PATTERNS)
+- [Spring](#Spring)
+- [BigData](#BigData)
 
 -------------------
 
@@ -25,7 +29,10 @@
 - [함수적 인터페이스 (Functional-Interface)](/JAVA/11.Functional-Interface.md)
 - [Java Collectons Framework](/JAVA/12.Collections.md)
 - [Compartor&Comparable](/JAVA/13.Compartor&Comparable.md)
-- [Stream](/JAVA/13.Stream.md)
+- [Stream](/JAVA/14.Stream.md)
+- [Thread](/JAVA/15.Thread.md)
+- [Thread 임계영역(Critical Section)](/JAVA/16.Thread-Critical-Section.md)
+- [Thread Intterupt](/JAVA/17.Thread-Interrupt.md)
 - [인사 정보 검색 미니 프로젝트](/JAVA/HrSearch)
 
 #### PYTHON
@@ -46,8 +53,9 @@
 - [Typing](/PYTHON/14.Typing.md)
 - [print 출력 방법](/PYTHON/15.print-출력-방법.md)
 - [Sort&Sorted&Operator Module](/PYTHON/16.Sort&Sorted&Operator-Module.md)
-- [정규표현식(Regular Expression)](/PYTHON/17.RegularExpression.md)
-
+- [정규표현식(Regular Expression)](/PYTHON/19.RegularExpression.md)
+- [Static Method & Class Method](/PYTHON/17.Method.md)
+- [Random](/PYTHON/18.Random.md)
 #### ORACLE
 
 - [데이터베이스(Database)](/ORACLE/01.데이터베이스.md)
@@ -65,7 +73,41 @@
 - [Set Operator](/ORACLE/13.SET-Operator.md)
 - [RANK](/ORACLE/14.RANK.md)
 - [TRANSACTION](/ORACLE/15.TRANSACTION.md)
-
 - [PL/SQL](/ORACLE/16.PLSQL.md)
 - [JDBC(Java DataBase Connectivity)](/ORACLE/17.JDBC.md)
 - [SQL 연습](/ORACLE/SQL-연습.md)
+
+#### MongoDB
+
+- [MongoDB 특징](/MongoDB/01.MongoDB.md)
+- [MongoDB 설치 및 설정](/MongoDB/02.MongoDB-설치-및-설정.md)
+- [CRUD](/MongoDB/03.CRUD.md)
+- [Operator](/MongoDB/04.Operator.md)
+- [Aggreation](/MongoDB/05.Aggreation.md)
+- [Mongo Import](/MongoDB/06.Import.md)
+- [Array Operator](/MongoDB/07.Array-Operator.md)
+- [Where Query](/MongoDB/08.where-Query.md)
+
+#### DESIGN PATTERNS
+
+- [GoF 디자인 패턴](/DesignPatterns/01.디자인패턴.md)
+- [전략 패턴(Strategy Pattern)](/DesignPatterns/02.Strategy-Pattern.md)
+
+#### Spring
+
+- [스프링 설정](/SPRING/01.스프링-설정.md)
+
+- [MariaDB와 Mybatis 연동](/SPRING/02.MariaDB-Mybatis.md)
+
+#### BigData
+
+- [NumPy](/BigData/01.Numpy.md)
+- [Pandas](/BigData/02.Pandas.md)
+- [Matplotlib](/BigData/03.Matplotlib.ipynb)
+- [Pandas Graph](/BigData/04.Pandas-Graph.ipynb)
+- [Web Scraping](/BigData/05.Web-Scraping.ipynb)
+- [데이터 분석 예제1(Bit.ly의 USA.gov)](/BigData/06.데이터분석예제-Bit_ly.ipynb)
+- [데이터 분석 예제2(MovieLens의 영화 평점 데이터)](/BigData/07.데이터분석예제-MovieLens.ipynb)
+
+- [데이터 분석 예제3(신생아 이름)](/BigData/08.데이터분석예제-신생아이름.ipynb)
+- [데이터 분석 예제4(미국농무부 영양소 정보)](/BigData/09.데이터분석-미국농무부영양소정보.ipynb)
