@@ -11,6 +11,7 @@
 - [DESIGN PATTERNS](#DESIGN-PATTERNS)
 - [Spring](#Spring)
 - [BigData](#BigData)
+- [Linux](#Linux)
 
 -------------------
 
@@ -111,3 +112,12 @@
 
 - [데이터 분석 예제3(신생아 이름)](/BigData/08.데이터분석예제-신생아이름.ipynb)
 - [데이터 분석 예제4(미국농무부 영양소 정보)](/BigData/09.데이터분석-미국농무부영양소정보.ipynb)
+
+#### Linux (CentOS)
+
+- [vi 단축키](/Linux/01.vi-단축키.md)
+- [리눅스 그룹 설정](/Linux/02.리눅스-그룹-설정.md)
+- [ssh 포트 설정](/Linux/03.ssh-포트-설정.md)
+- [리눅스 명령어](/Linux/04.리눅스-명령어.md)
+- [vim 설정](/Linux/05.vim-설정.md)
+- [터미널 단축키 설정](/image/Linux/centos-터미널-설정.PNG)
