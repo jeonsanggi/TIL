@@ -120,4 +120,4 @@
 - [ssh 포트 설정](/Linux/03.ssh-포트-설정.md)
 - [리눅스 명령어](/Linux/04.리눅스-명령어.md)
 - [vim 설정](/Linux/05.vim-설정.md)
-- [터미널 단축키 설정](/image/Linux/centos-터미널-설정.PNG)
+- [터미널 단축키 설정](/Image/Linux/centos-터미널-설정.PNG)
