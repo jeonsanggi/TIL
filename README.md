@@ -124,6 +124,8 @@
 - [터미널 단축키 설정](/Image/Linux/centos-터미널-설정.PNG)
 - [tar와 gzip](/Linux/07.TAR_GZIP.md)
 - [Shell Script](/Linux/08.Shell_Script.md)
+- [AWK](/Linux/09.AWK.md)
+- [Makefile](/Linux/10.Makefile.md)
 
 #### Hadoop
 
