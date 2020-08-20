@@ -1,0 +1,3 @@
+com\jremind\driver\WordCount.class
+com\jremind\map\WordCounteMapper.class
+com\jremind\reduce\WordCountReducer.class
