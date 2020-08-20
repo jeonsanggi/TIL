@@ -11,7 +11,7 @@
 - [DESIGN PATTERNS](#DESIGN-PATTERNS)
 - [Spring](#Spring)
 - [BigData](#BigData)
-- [Linux](#Linux(CentOS))
+- [Linux](#Linux)
 - [Hadoop](#Hadoop)
 
 -------------------
@@ -114,7 +114,7 @@
 - [데이터 분석 예제3(신생아 이름)](/BigData/08.데이터분석예제-신생아이름.ipynb)
 - [데이터 분석 예제4(미국농무부 영양소 정보)](/BigData/09.데이터분석-미국농무부영양소정보.ipynb)
 
-#### Linux(CentOS)
+#### Linux
 
 - [vi 단축키](/Linux/01.vi-단축키.md)
 - [리눅스 그룹 설정](/Linux/02.리눅스-그룹-설정.md)
