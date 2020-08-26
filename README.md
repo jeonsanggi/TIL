@@ -139,3 +139,5 @@
 - [사용자 정의 옵션](/Hadoop/07.사용자정의옵션.md)
 - [항공데이터 MapReduce 실습](/Hadoop/08.항공데이터_MapReduce_실습.md)
 - [항공데이터 MapReduce 실습2](/Hadoop/09.항공데이터_MapReduce_실습2.md)
+
+- [Hive](/Hadoop/10.HIVE.md)
