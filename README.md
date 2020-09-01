@@ -13,6 +13,7 @@
 - [BigData](#BigData)
 - [Linux](#Linux)
 - [Hadoop](#Hadoop)
+- [Etc](#Etc)
 
 -------------------
 
@@ -142,3 +143,9 @@
 - [Hive](/Hadoop/10.HIVE.md)
 - [Sqoop](/Hadoop/11.Sqoop.md)
 - [Tajo](/Hadoop/12.Tajo.md)
+
+#### Etc
+
+- [apt-get update 에러](/ETC/01.apt_update_error.md)
+- [WSL2 설치](/ETC/02.WSL2.md)
+- [WSL SSH 서버](/ETC/03.WSL_SSH_서버_세팅.md)
