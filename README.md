@@ -149,3 +149,4 @@
 - [apt-get update 에러](/ETC/01.apt_update_error.md)
 - [WSL2 설치](/ETC/02.WSL2.md)
 - [WSL SSH 서버](/ETC/03.WSL_SSH_서버_세팅.md)
+- [X server](/ETC/04.XServer.md)
