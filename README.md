@@ -13,6 +13,7 @@
 - [BigData](#BigData)
 - [Linux](#Linux)
 - [Hadoop](#Hadoop)
+- [Algorithm](#Algorithm)
 - [Etc](#Etc)
 
 -------------------
@@ -143,6 +144,10 @@
 - [Hive](/Hadoop/10.HIVE.md)
 - [Sqoop](/Hadoop/11.Sqoop.md)
 - [Tajo](/Hadoop/12.Tajo.md)
+
+#### Algorithm
+
+- [에라토스테네스의 체](/Algorithm/에라토스테네스의_체.md)
 
 #### Etc
 
