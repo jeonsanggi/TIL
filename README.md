@@ -14,6 +14,7 @@
 - [Linux](#Linux)
 - [Hadoop](#Hadoop)
 - [Algorithm](#Algorithm)
+- [Coding](#Coding)
 - [Etc](#Etc)
 
 -------------------
@@ -148,6 +149,7 @@
 #### Algorithm
 
 - [에라토스테네스의 체](/Algorithm/에라토스테네스의_체.md)
+- [알고리즘 연습](/Coding)
 
 #### Etc
 
