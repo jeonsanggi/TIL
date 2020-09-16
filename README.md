@@ -145,6 +145,7 @@
 - [Hive](/Hadoop/10.HIVE.md)
 - [Sqoop](/Hadoop/11.Sqoop.md)
 - [Tajo](/Hadoop/12.Tajo.md)
+- [Pyhive](/Hadoop/13.PyHive_설치.md)
 
 #### Algorithm
 
