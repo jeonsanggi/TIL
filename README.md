@@ -147,6 +147,7 @@
 - [Sqoop 설치](/Hadoop/12.Sqoop.md)
 - [Tajo 설치](/Hadoop/13.Tajo.md)
 - [Pyhive 설치](/Hadoop/14.PyHive_설치.md)
+- [Hadoop, Hive, PyHive, Sqoop 연습](/Hadoop/15.Hadoop_Hive_PyHive_Sqoop_연습.md)
 
 #### Algorithm
 
