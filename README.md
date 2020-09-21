@@ -143,9 +143,10 @@
 - [항공데이터 MapReduce 실습](/Hadoop/08.항공데이터_MapReduce_실습.md)
 - [항공데이터 MapReduce 실습2](/Hadoop/09.항공데이터_MapReduce_실습2.md)
 - [Hive 설치](/Hadoop/10.HIVE.md)
-- [Sqoop 설치](/Hadoop/11.Sqoop.md)
-- [Tajo 설치](/Hadoop/12.Tajo.md)
-- [Pyhive 설치](/Hadoop/13.PyHive_설치.md)
+- [Hive SerDe](/Hadoop/11.SerDe.md)
+- [Sqoop 설치](/Hadoop/12.Sqoop.md)
+- [Tajo 설치](/Hadoop/13.Tajo.md)
+- [Pyhive 설치](/Hadoop/14.PyHive_설치.md)
 
 #### Algorithm
 
