@@ -7,6 +7,7 @@
 - [JAVA](#JAVA)
 - [PYTHON](#PYTHON)
 - [JAVASCRIPT](#JAVASCRIPT)
+- [WEB](#WEB)
 - [ORACLE](#ORACLE)
 - [MongoDB](#MongoDB)
 - [DESIGN PATTERNS](#DESIGN-PATTERNS)
@@ -67,6 +68,9 @@
 
 - [jQuery](/JAVASCRIPT/01.jQuery.md)
 - [자바스크립트 함수 앞 느낌표(!), 세미콜론(;), 플러스(+), 물결표(~)](/JAVASCRIPT/02.IIFE.md)
+
+#### WEB
+- [CORS](/WEB/01.CORS.md)
 
 #### ORACLE
 
