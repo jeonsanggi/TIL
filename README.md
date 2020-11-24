@@ -67,6 +67,7 @@
 #### JAVASCRIPT
 
 - [jQuery](/JAVASCRIPT/01.jQuery.md)
+- [jQuery Animation](/JAVASCRIPT/03.animation.md)
 - [자바스크립트 함수 앞 느낌표(!), 세미콜론(;), 플러스(+), 물결표(~)](/JAVASCRIPT/02.IIFE.md)
 
 #### WEB
