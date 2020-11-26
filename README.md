@@ -70,7 +70,7 @@
 - [jQuery Animation](/JAVASCRIPT/03.animation.md)
 - [자바스크립트 함수 앞 느낌표(!), 세미콜론(;), 플러스(+), 물결표(~)](/JAVASCRIPT/02.IIFE.md)
 - [Table 그리기](/JAVASCRIPT/04.TableMake.md)
-- [Paging](/JAVASCRIPT/05.Paging.md)
+- [Paging](/JAVASCRIPT/05.paging.md)
 
 #### WEB
 - [CORS](/WEB/01.CORS.md)
