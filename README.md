@@ -72,6 +72,7 @@
 - [Table 그리기](/JAVASCRIPT/04.TableMake.md)
 - [Paging](/JAVASCRIPT/05.paging.md)
 - [iframe으로 팝업 띄우기](/JAVASCRIPT/06.popup.md)
+- [Computed Property Name](/JAVASCRIPT/07.Computed_Property_Name.md)
 
 #### WEB
 - [CORS](/WEB/01.CORS.md)
