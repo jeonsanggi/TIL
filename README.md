@@ -74,6 +74,7 @@
 - [iframe으로 팝업 띄우기](/JAVASCRIPT/06.popup.md)
 - [Computed Property Name](/JAVASCRIPT/07.Computed_Property_Name.md)
 - [Template literals](/JAVASCRIPT/08.Template_literals.md)
+- [Prototype](/JAVASCRIPT/09.Prototype.md)
 
 #### WEB
 - [CORS](/WEB/01.CORS.md)
