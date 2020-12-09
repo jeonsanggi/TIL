@@ -174,7 +174,7 @@
 
 - [에라토스테네스의 체](/Algorithm/에라토스테네스의_체.md)
 - [다익스트라(Dijkstra)](/Algorithm/다익스트라.md)
-- [플로이드 와샬(Floyd Warshall)](/Algorithm/플로이드와샬.md)
+- [플로이드-워셜(Floyd-Warshall)](/Algorithm/플로이드워셜.md)
 - [알고리즘 연습](/Coding)
 
 #### Etc
