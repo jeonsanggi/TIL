@@ -82,6 +82,7 @@
 - [CSS(Cascading Style Sheets)](/WEB/02.CSS.md)
 - [CSS Layout](/WEB/03.CSS_LAYOUT.md)
 - [viewport](/WEB/04.viewport.md)
+- [이전 세션 값 가져오기](/WEB/05.before_session.md)
 
 #### ORACLE
 
