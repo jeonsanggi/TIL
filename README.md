@@ -194,3 +194,4 @@
 - [WSL SSH 서버](/ETC/03.WSL_SSH_서버_세팅.md)
 - [X server](/ETC/04.XServer.md)
 - [SVNKit](/ETC/05.SVNKit.md)
+- [SQL 튜닝](/ETC/06.SQL튜닝.md)
