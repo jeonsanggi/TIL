@@ -66,7 +66,7 @@
 - [정규표현식(Regular Expression)](/PYTHON/19.RegularExpression.md)
 - [Static Method & Class Method](/PYTHON/17.Method.md)
 - [Random](/PYTHON/18.Random.md)
-- [콤마(,) 연산자](/)
+- [콤마(,) 연산자](/PYTHON/20.Comma.md)
 
 #### JAVASCRIPT
 
