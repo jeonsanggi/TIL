@@ -80,6 +80,7 @@
 - [Computed Property Name](/JAVASCRIPT/07.Computed_Property_Name.md)
 - [Template literals](/JAVASCRIPT/08.Template_literals.md)
 - [Prototype](/JAVASCRIPT/09.Prototype.md)
+- [숫자 콤마(,) 찍기](/JAVASCRIPT/10.comma.md)
 
 #### WEB
 - [CORS](/WEB/01.CORS.md)
