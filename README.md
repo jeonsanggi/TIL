@@ -93,6 +93,7 @@
 - [MultipartRquest 파일 업로드](/WEB/09.MultipartRequest.md)
 - [WorkBook Excel 만들기](/WEB/10.WorkBook.md)
 - [jQuery Autocomplete](/WEB/11.AutoComplete.md)
+- [textContent](/WEB/12.textContent.md)
 
 #### ORACLE
 
