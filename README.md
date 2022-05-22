@@ -13,6 +13,7 @@
 - [PostgreSQL](#PostgreSQL)
 - [DESIGN PATTERNS](#DESIGN-PATTERNS)
 - [Spring](#Spring)
+- [JPA](#JPA)
 - [BigData](#BigData)
 - [Linux](#Linux)
 - [Hadoop](#Hadoop)
@@ -139,8 +140,12 @@
 #### Spring
 
 - [스프링 설정](/SPRING/01.스프링-설정.md)
-
 - [MariaDB와 Mybatis 연동](/SPRING/02.MariaDB-Mybatis.md)
+
+#### JPA
+
+- [JPA](/JPA/01.JPA.md)
+- [영속성 컨텍스트](/JPA/02.영속성컨텍스트.md)
 
 #### BigData
 
