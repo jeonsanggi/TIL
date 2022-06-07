@@ -1,4 +1,0 @@
-com\jremind\hadoop\reducer\DelayCountReducer.class
-com\jremind\hadoop\common\AirlinePerformanceParser.class
-com\jremind\hadoop\driver\DepartureDelayCount.class
-com\jremind\hadoop\mapper\DepartureDelayCountMapper.class
