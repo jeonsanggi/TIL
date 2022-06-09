@@ -141,6 +141,7 @@
 
 - [스프링 설정](/SPRING/01.스프링-설정.md)
 - [MariaDB와 Mybatis 연동](/SPRING/02.MariaDB-Mybatis.md)
+- [@NotEmpty implementation ](/SPRING/03.NotEmpty.md)
 
 #### JPA
 
