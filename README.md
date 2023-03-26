@@ -7,9 +7,9 @@
 - [DESIGN PATTERNS](#DESIGN-PATTERNS)
 - [Spring](#Spring)
 - [JPA](#JPA)
-- [BigData](#BigData)
 - [Linux](#Linux)
 - [Algorithm](#Algorithm)
+- [Git](#Git)
 - [Book](#Book)
 - [Etc](#Etc)
 
@@ -73,3 +73,4 @@
 - [X server](/ETC/04.XServer.md)
 - [SVNKit](/ETC/05.SVNKit.md)
 - [SQL 튜닝](/ETC/06.SQL튜닝.md)
+- [HeapDump 분석](/ETC/07.heapdump.md)
