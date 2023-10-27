@@ -14,3 +14,4 @@
 - [둘만의 암호](./PROGRAMMERS/LevelOneOurPassword.java)
 - [개인정보 수집 유효기간](./PROGRAMMERS/LevelOnePrivacy.java)
 - [크기가 작은 부분문자열](./PROGRAMMERS/LevelOneSmallSubString.java)
+- [가장 가까운 같은 글자](./PROGRAMMERS/LevelOneNearestChar.java)
