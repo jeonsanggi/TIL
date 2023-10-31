@@ -16,3 +16,4 @@
 - [크기가 작은 부분문자열](./PROGRAMMERS/LevelOneSmallSubString.java)
 - [가장 가까운 같은 글자](./PROGRAMMERS/LevelOneNearestChar.java)
 - [문자열 나누기](./PROGRAMMERS/LevelOneSplitString.java)
+- [명예의 전당(1)](./PROGRAMMERS/LevelOneHallOfFamePartOne.java)
